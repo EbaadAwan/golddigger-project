@@ -1,0 +1,19 @@
+{
+  "name": "gold-digger",
+  "version": "1.0.0",
+  "description": "A live program displaying gold for users to buy",
+  "license": "ISC",
+  "author": "Ebaad",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "os": "^0.1.2",
+    "path": "^0.12.7"
+  }
+}
